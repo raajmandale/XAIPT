@@ -1,0 +1,11 @@
+XAIPT/
+├── README.md
+├── STRUCTURE.txt
+├── assets/
+│   └── svg/
+│       └── xaipt-ecosystem-map.svg
+└── docs/
+    ├── ARCHITECTURE.md
+    ├── PUBLIC_BOUNDARY.md
+    ├── BRANCH_STRUCTURE.md
+    └── TERMINOLOGY.md

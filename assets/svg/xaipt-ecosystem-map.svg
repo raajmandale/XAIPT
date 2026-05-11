@@ -1,0 +1,88 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="XAIPT ecosystem map">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#eef7ff"/>
+      <stop offset="100%" stop-color="#fff7ed"/>
+    </linearGradient>
+    <linearGradient id="blueOrange" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="55%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#0f172a" flood-opacity="0.14"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title{font:800 76px 'Segoe UI',Arial,sans-serif;fill:#0f172a;letter-spacing:8px}
+      .sub{font:600 25px 'Segoe UI',Arial,sans-serif;fill:#334155;letter-spacing:2px}
+      .micro{font:600 18px 'Segoe UI',Arial,sans-serif;fill:#475569;letter-spacing:1.4px}
+      .nodeTitle{font:800 26px 'Segoe UI',Arial,sans-serif;fill:#0f172a}
+      .nodeText{font:500 17px 'Segoe UI',Arial,sans-serif;fill:#475569}
+      .label{font:800 17px 'Segoe UI',Arial,sans-serif;fill:#2563eb;letter-spacing:1.2px}
+      .line{stroke:url(#blueOrange);stroke-width:4;stroke-linecap:round;opacity:.75}
+      .dash{stroke:url(#blueOrange);stroke-width:3;stroke-dasharray:10 14;stroke-linecap:round;opacity:.55}
+      .pulse{animation:pulse 2.8s ease-in-out infinite}
+      .flow{stroke-dasharray:18 20;animation:dash 7s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.42}50%{opacity:1}}
+      @keyframes dash{to{stroke-dashoffset:-240}}
+    </style>
+  </defs>
+
+  <rect width="1600" height="520" rx="34" fill="url(#bg)"/>
+  <path d="M60 70 C300 8 490 28 700 88 S1120 150 1540 48" fill="none" class="dash flow"/>
+  <path d="M70 455 C260 400 470 442 690 390 S1120 290 1530 414" fill="none" class="dash flow"/>
+
+  <text x="800" y="90" text-anchor="middle" class="title">XAIPT</text>
+  <text x="800" y="130" text-anchor="middle" class="sub">EXECUTION GOVERNANCE &amp; AUTHORITY RUNTIME RESEARCH</text>
+  <text x="800" y="165" text-anchor="middle" class="micro">HUMAN AUTHORITY BEFORE IRREVERSIBLE EXECUTION</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="650" y="205" width="300" height="115" rx="28" fill="#ffffff" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="710" cy="262" r="34" fill="url(#blueOrange)" filter="url(#glow)"/>
+    <text x="710" y="272" text-anchor="middle" font-family="Segoe UI,Arial" font-size="32" font-weight="900" fill="#fff">X</text>
+    <text x="765" y="252" class="nodeTitle">XAIPT ROOT</text>
+    <text x="765" y="282" class="nodeText">Authority runtime ecosystem</text>
+  </g>
+
+  <line x1="650" y1="262" x2="430" y2="262" class="line flow"/>
+  <line x1="950" y1="262" x2="1170" y2="262" class="line flow"/>
+  <line x1="800" y1="320" x2="800" y2="420" class="line flow"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="90" y="205" width="340" height="115" rx="24" fill="#ffffff" stroke="#bfdbfe"/>
+    <text x="125" y="250" class="label">PUBLIC BRANCH</text>
+    <text x="125" y="282" class="nodeTitle">XAIPT-GUARD</text>
+    <text x="125" y="310" class="nodeText">Runtime governance simulation</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="1170" y="205" width="340" height="115" rx="24" fill="#ffffff" stroke="#fed7aa"/>
+    <text x="1205" y="250" class="label">DECISION BRANCH</text>
+    <text x="1205" y="282" class="nodeTitle">Decision Gate</text>
+    <text x="1205" y="310" class="nodeText">HOLD → REVIEW → APPROVE</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="605" y="420" width="390" height="70" rx="22" fill="#ffffff" stroke="#bae6fd"/>
+    <text x="645" y="463" class="nodeTitle">Runtime Authority Flow</text>
+    <text x="645" y="486" class="nodeText">Human-controlled irreversible actions</text>
+  </g>
+
+  <g class="pulse">
+    <circle cx="430" cy="262" r="8" fill="#0ea5e9"/>
+    <circle cx="1170" cy="262" r="8" fill="#f97316"/>
+    <circle cx="800" cy="420" r="8" fill="#2563eb"/>
+  </g>
+
+  <text x="800" y="370" text-anchor="middle" font-family="Segoe UI,Arial" font-size="22" font-weight="800" fill="#f97316">
+    HOLD BEFORE FINALITY • VISIBILITY BEFORE CONSEQUENCE
+  </text>
+</svg>
