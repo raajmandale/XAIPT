@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 <p align="center">
 
 # XAIPT™
@@ -15,7 +14,6 @@
 </p>
 
 ---
-
 <p align="center">
 
 [![LIVE](https://img.shields.io/badge/LIVE-XAIPT.COM-111827?style=for-the-badge)](https://xaipt.com/)
@@ -27,7 +25,7 @@
 
 ---
 
-# 🧠 What is XAIPT?
+### 🧠 What is XAIPT?
 
 XAIPT is a runtime governance research ecosystem exploring how irreversible digital actions can be:
 
@@ -45,9 +43,8 @@ XAIPT explores a systems-level question:
 
 ---
 
-# ⚡ Core Runtime Principle
+### ⚡ Core Runtime Principle
 
-```text
 REQUEST
    ↓
 RISK DETECTION
@@ -59,7 +56,9 @@ AUTHORITY REVIEW
 APPROVE / DENY
    ↓
 CONTROLLED EXECUTION
-🌐 Why XAIPT Exists
+---
+
+### 🌐 Why XAIPT Exists
 
 Modern digital systems increasingly execute irreversible actions instantly:
 
@@ -83,8 +82,9 @@ accountability,
 and survivability.
 
 XAIPT explores whether strategic friction can become a protection layer.
+---
 
-🛡️ XAIPT Runtime Doctrines
+### 🛡️ XAIPT Runtime Doctrines
 Doctrine	Meaning
 HOLD Before Finality	High-risk execution pauses before irreversible state transition
 Authority Before Execution	Human review exists before consequence
@@ -93,9 +93,11 @@ Delay As Protection	Cooling windows can reduce damage
 Audit Visibility	Runtime actions remain observable
 Bounded Execution	Execution remains contained until authority resolves
 Runtime Accountability	State transitions remain explainable
-🧩 XAIPT Ecosystem Structure
+
+## 🧩 XAIPT Ecosystem Structure
 <p align="center"> <img src="./assets/svg/xaipt-ecosystem-map.svg" width="100%" /> </p>
-🚀 Runtime Authority Flow
+
+## 🚀 Runtime Authority Flow
 <p align="center"> <img src="./assets/svg/01-runtime-authority-flow.svg" width="100%" /> </p>
 
 XAIPT treats execution as a governed runtime sequence rather than an instant final action.
@@ -107,7 +109,9 @@ HOLD activation,
 authority review,
 decision branching,
 and controlled execution.
-🔐 XAIPT Protection Vault
+---
+
+### 🔐 XAIPT Protection Vault
 <p align="center"> <img src="./assets/svg/02-vault-governance-topology.svg" width="100%" /> </p>
 
 XAIPT explores a unified runtime authority layer for:
@@ -126,7 +130,8 @@ trusted-device review,
 runtime visibility,
 delayed execution,
 and bounded consequence architecture.
-🌉 Public / Private Boundary
+---
+### 🌉 Public / Private Boundary
 <p align="center"> <img src="./assets/svg/03-public-private-execution-boundary.svg" width="100%" /> </p>
 
 XAIPT publicly demonstrates:
@@ -144,7 +149,8 @@ production transaction systems,
 private vault internals,
 enforcement mechanisms,
 or proprietary runtime layers.
-📡 Runtime Telemetry & Audit Visibility
+---
+### 📡 Runtime Telemetry & Audit Visibility
 <p align="center"> <img src="./assets/svg/04-runtime-telemetry-audit-visibility.svg" width="100%" /> </p>
 
 XAIPT explores the idea that:
@@ -158,7 +164,8 @@ audit playback,
 authority checkpoints,
 trust telemetry,
 and governance visibility.
-🧪 XAIPT-GUARD™
+---
+### 🧪 XAIPT-GUARD™
 Public Research Runtime
 <p align="center">
 Surface	Purpose
@@ -191,7 +198,8 @@ audit-visible execution
 AI-era governance runtime
 friction-as-protection architecture
 human-centered digital trust systems
-⚠️ Research Boundary
+---
+### ⚠️ Research Boundary
 
 XAIPT is:
 
@@ -209,8 +217,8 @@ XAIPT is NOT:
 ❌ a production financial controller
 ❌ a law-enforcement system
 ❌ a live transaction execution network
-
-🧬 Systems Philosophy
+---
+### 🧬 Systems Philosophy
 
 XAIPT explores a larger infrastructure question:
 
@@ -225,8 +233,8 @@ accountability,
 and bounded runtime states
 
 become first-class infrastructure primitives?
-
-👨‍💻 Founder
+---
+### 👨‍💻 Founder
 Raaj Mandale
 
 Systems Architect • Runtime Systems Research • Survivability Infrastructure
@@ -237,7 +245,8 @@ QBAIX™
 XPADI™
 XAIPT™
 Mandale-OS™
-🌐 Links
+---
+### 🌐 Links
 Official Website
 https://raajmandale.in/
 GitHub
@@ -248,7 +257,8 @@ OpenAlex
 https://openalex.org/A5127026877
 Zenodo Research
 https://zenodo.org/communities/xmeck/
-📘 Related Research
+---
+### 📘 Related Research
 QBAIX™
 
 Hybrid Compute Infrastructure Research
