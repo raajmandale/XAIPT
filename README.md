@@ -1,4 +1,4 @@
---- 
+
 # XAIPT™
 
 ### Execution Governance • Runtime Authority • HOLD-Before-Finality
