@@ -4,18 +4,14 @@
 # XAIPT™
 ### Execution Governance • Runtime Authority • HOLD-Before-Finality
 Human Authority Before Irreversible Execution
-
 <br>
-
 [![LIVE](https://img.shields.io/badge/LIVE-XAIPT.COM-111827?style=for-the-badge)](https://xaipt.com/)
 [![XAIPT-GUARD](https://img.shields.io/badge/XAIPT--GUARD-PUBLIC_RESEARCH-2563eb?style=for-the-badge)](https://github.com/raajmandale/XAIPT-GUARD)
 [![FOUNDER](https://img.shields.io/badge/FOUNDER-RAAJ_MANDALE-f97316?style=for-the-badge)](https://raajmandale.in/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-RESEARCH_ECOSYSTEM-0f172a?style=for-the-badge)](https://github.com/raajmandale)
 
 ---
-
 ## 🧠 What is XAIPT?
-
 XAIPT is a runtime-governance and authority-aware execution research ecosystem exploring how irreversible digital actions can be:
 
 - delayed
