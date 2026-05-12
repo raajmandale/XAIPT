@@ -4,94 +4,33 @@
 
 # XAIPT™
 
-### Execution Governance • Runtime Authority • HOLD-Before-Finality
-
+### Execution Governance • Runtime Authority • HOLD-Before-Finality  
 #### Human Authority Before Irreversible Execution
 
----
-
 [![LIVE](https://img.shields.io/badge/LIVE-XAIPT.COM-111827?style=for-the-badge)](https://xaipt.com/)
-[![PUBLIC](https://img.shields.io/badge/XAIPT--GUARD-PUBLIC_RESEARCH-2563eb?style=for-the-badge)](https://github.com/raajmandale/XAIPT-GUARD)
+[![XAIPT-GUARD](https://img.shields.io/badge/XAIPT--GUARD-PUBLIC_RESEARCH-2563eb?style=for-the-badge)](https://github.com/raajmandale/XAIPT-GUARD)
 [![FOUNDER](https://img.shields.io/badge/FOUNDER-RAAJ_MANDALE-f97316?style=for-the-badge)](https://raajmandale.in/)
-[![RESEARCH](https://img.shields.io/badge/GITHUB-RESEARCH_ECOSYSTEM-0f172a?style=for-the-badge)](https://github.com/raajmandale)
+[![GITHUB](https://img.shields.io/badge/GITHUB-RESEARCH_ECOSYSTEM-0f172a?style=for-the-badge)](https://github.com/raajmandale)
 
 ---
 
 ## 🧠 What is XAIPT?
 
-XAIPT is a runtime-governance and authority-aware execution research ecosystem exploring how irreversible digital actions can be:
+XAIPT is a runtime-governance and authority-aware execution research ecosystem exploring how irreversible digital actions can be delayed, bounded, reviewed, audited, and approved through human authority before final execution.
 
-- delayed,
-- bounded,
-- reviewed,
-- audited,
-- and approved
-
-through human authority before final execution.
-
-XAIPT investigates whether:
-
-> visibility, authority review, delay windows, runtime accountability, and bounded execution can become protection primitives in AI-era digital infrastructure.
-
----
-
-## 🌐 Why XAIPT Exists
-
-Modern digital systems increasingly prioritize:
-
-- instant execution,
-- automation,
-- AI-assisted workflows,
-- zero-friction transactions,
-- autonomous runtime decisions,
-- and irreversible execution speed.
-
-This creates a growing infrastructure challenge.
-
-Critical actions now occur across:
-
-- payments,
-- communication,
-- approvals,
-- identity systems,
-- access control,
-- remote execution,
-- AI-triggered actions,
-- and operational runtime environments
-
-without meaningful interruption or authority review.
-
-XAIPT explores whether:
-
-- strategic friction,
-- delayed execution,
-- authority checkpoints,
-- runtime visibility,
-- and auditability
-
-can become infrastructure-grade protection layers.
+> Can visibility, authority review, delay windows, runtime accountability, and bounded execution become protection primitives in AI-era digital infrastructure?
 
 ---
 
 ## ⚡ Core Runtime Principle
 
 ```text
-REQUEST
-   ↓
-RISK DETECTION
-   ↓
-HOLD ACTIVATION
-   ↓
-AUTHORITY REVIEW
-   ↓
-APPROVE / DENY
-   ↓
-CONTROLLED EXECUTION
+REQUEST → RISK DETECTION → HOLD → AUTHORITY REVIEW → APPROVE / DENY → CONTROLLED EXECUTION
 ```
 
 ---
 
-## 🛡️ XAIPT Runtime Doctrines
+## 🛡️ Runtime Doctrines
 
 | Doctrine | Meaning |
 |---|---|
@@ -99,77 +38,22 @@ CONTROLLED EXECUTION
 | Authority Before Execution | Human review exists before consequence |
 | Visibility Before Trust | Runtime states remain reviewable |
 | Delay As Protection | Cooling windows reduce irreversible damage |
-| Runtime Accountability | Decisions remain explainable |
-| Audit Visibility | Execution states remain observable |
 | Bounded Execution | Execution remains contained until authority resolves |
 | Human Override | Human authority remains above automation |
 
 ---
 
-## 🔐 XAIPT Protection Vault
-
-XAIPT explores a future runtime-protection architecture where:
-
-- payments,
-- approvals,
-- communication,
-- authority flows,
-- trusted-device review,
-- runtime visibility,
-- and high-risk execution paths
-
-can move through governed runtime states before final consequence.
-
-The research direction investigates:
-
-- secondary authority approval,
-- runtime cooling windows,
-- trusted-device verification,
-- execution HOLD states,
-- audit-visible review,
-- and bounded consequence systems.
-
----
-
-## 🧩 XAIPT Ecosystem Architecture
+## 🧩 Ecosystem Architecture
 
 ![XAIPT Ecosystem](./assets/svg/xaipt-ecosystem-map.svg)
 
-XAIPT functions as a master runtime-governance ecosystem connecting:
-
-- public runtime simulations,
-- authority-aware execution systems,
-- governance visibility layers,
-- runtime telemetry concepts,
-- audit-visible execution models,
-- and future operational trust systems.
-
-The ecosystem is intentionally structured as:
-
-```text
-XAIPT ROOT
- ├── XAIPT-GUARD
- ├── Decision Runtime
- ├── Runtime Visibility
- ├── Authority Systems
- └── Future Governance Labs
-```
-
-This structure allows both technical and non-technical visitors to understand XAIPT as:
-
-> one connected runtime-governance research ecosystem.
-
----
-
-## 🌐 XAIPT Ecosystem Branches
-
-| Branch | Purpose | Status |
+| Surface | Purpose | Status |
 |---|---|---|
-| 🛡️ XAIPT-GUARD | Public runtime governance simulation | ACTIVE |
-| 🔐 Decision Runtime | HOLD / REVIEW / APPROVE runtime concepts | RESEARCH |
-| 📡 Runtime Visibility | Audit telemetry & visibility systems | ACTIVE |
-| 🧠 Authority Systems | Human-centered runtime governance | EXPERIMENTAL |
-| 🧪 Future Labs | AI-era operational trust research | FUTURE |
+| XAIPT Root | Runtime-governance ecosystem | ACTIVE |
+| [XAIPT-GUARD](https://github.com/raajmandale/XAIPT-GUARD) | Public runtime simulation | ACTIVE |
+| Decision Runtime | HOLD / REVIEW / APPROVE logic | RESEARCH |
+| Runtime Visibility | Audit telemetry & execution visibility | ACTIVE |
+| Future Labs | AI-era operational trust research | FUTURE |
 
 ---
 
@@ -179,112 +63,64 @@ This structure allows both technical and non-technical visitors to understand XA
 
 XAIPT treats execution as a governed runtime sequence rather than an instant irreversible action.
 
-Every critical transition can move through:
-
-- risk evaluation,
-- HOLD activation,
-- authority review,
-- decision branching,
-- and controlled execution states.
-
-This shifts runtime protection from:
-
-> “detect after damage”
-
-toward:
-
-> “bound execution before irreversible consequence.”
-
 ---
 
-## 🌉 Public / Private Runtime Boundary
+## 🌉 Public / Private Boundary
 
 ![Public Private Boundary](./assets/svg/03-public-private-execution-boundary.svg)
 
-XAIPT publicly demonstrates:
+XAIPT publicly demonstrates runtime governance surfaces, conceptual execution flows, authority review concepts, delay-window simulations, telemetry, and audit-visible governance.
 
-- runtime governance surfaces,
-- conceptual execution flows,
-- authority review concepts,
-- delay-window simulations,
-- runtime telemetry,
-- and audit-visible governance systems.
-
-XAIPT does NOT expose:
-
-- financial integrations,
-- production transaction systems,
-- payment infrastructure,
-- private enforcement layers,
-- proprietary runtime internals,
-- or operational vault systems.
+XAIPT does **not** expose financial integrations, production transaction systems, private enforcement layers, proprietary runtime internals, or operational vault systems.
 
 ---
 
 ## 🧪 XAIPT-GUARD™
 
-### Public Runtime Governance Research Surface
-
 XAIPT-GUARD is the public simulation branch of XAIPT.
 
-It demonstrates:
-
-- HOLD-before-finality runtime,
-- authority review states,
-- runtime visibility,
-- trust telemetry,
-- audit playback,
-- bounded execution,
-- delay-window governance,
-- and human-controlled runtime decisions.
-
----
-
-## 🔗 Public Runtime Links
+It demonstrates HOLD-before-finality runtime, authority review states, runtime visibility, audit playback, bounded execution, delay-window governance, and human-controlled runtime decisions.
 
 | Surface | Link |
 |---|---|
-| 🌐 XAIPT Runtime | https://xaipt.com/ |
-| 🛡️ XAIPT-GUARD | https://github.com/raajmandale/XAIPT-GUARD |
-| 🎬 Cinematic Runtime Experience | https://raajmandale.github.io/XAIPT-GUARD/public-demo/cinematic/runtime-experience-engine.html |
+| XAIPT Runtime | https://xaipt.com/ |
+| XAIPT-GUARD | https://github.com/raajmandale/XAIPT-GUARD |
+| Cinematic Runtime | https://raajmandale.github.io/XAIPT-GUARD/public-demo/cinematic/runtime-experience-engine.html |
 
 ---
 
-## 🖥️ Runtime Demonstration Surface
+## 📺 Runtime Demonstration Surface
 
-### HOLD State Runtime
+### XAIPT Runtime Surface
 
-![HOLD Runtime](./assets/screenshots/runtime-hold-state.png)
+![XAIPT Runtime Surface](./assets/screenshots/xaipt-runtime-surface.png)
 
-XAIPT demonstrates runtime interruption before irreversible execution.
-
----
-
-### Runtime Governance Timeline
-
-![Runtime Governance Timeline](./assets/screenshots/runtime-audit-playback.png)
-
-Execution states remain visible, reviewable, and auditable.
+XAIPT-GUARD™ demonstrates HOLD-before-finality, bounded execution, runtime interruption, delay governance, trusted-device review, and public-safe execution visibility.
 
 ---
 
-## 🧭 Public Research Direction
+### Audit & Authority Visibility
+
+![XAIPT Audit Authority](./assets/screenshots/xaipt-audit-authority.png)
+
+Execution states remain reviewable, audit-visible, authority-aware, and bounded before irreversible consequence.
+
+---
+
+## 🧭 Research Direction
 
 XAIPT currently explores:
 
-- HOLD-before-finality systems,
-- authority-aware execution,
-- bounded execution models,
-- delayed execution windows,
-- runtime visibility architecture,
-- trusted-device review,
-- runtime telemetry,
-- audit-visible governance,
-- human-centered runtime systems,
-- AI-era operational trust,
-- runtime accountability,
-- execution containment,
-- and strategic friction as protection.
+- HOLD-before-finality systems
+- authority-aware execution
+- bounded execution models
+- delayed execution windows
+- runtime visibility architecture
+- trusted-device review
+- audit-visible governance
+- human-centered runtime systems
+- AI-era operational trust
+- strategic friction as protection
 
 ---
 
@@ -296,81 +132,35 @@ XAIPT is:
 - ✅ a public-safe simulation environment
 - ✅ a conceptual execution-governance architecture
 - ✅ a runtime visibility exploration layer
-- ✅ a systems-research surface
 
-XAIPT is NOT:
-
-- ❌ a banking platform
-- ❌ a UPI processor
-- ❌ a payment gateway
-- ❌ a fraud-monitoring engine
-- ❌ a production transaction network
-- ❌ a live execution controller
-- ❌ a law-enforcement system
-- ❌ a deployed financial infrastructure product
+XAIPT is not a banking platform, UPI processor, payment gateway, fraud-monitoring engine, live execution controller, law-enforcement system, or deployed financial infrastructure product.
 
 ---
 
 ## 🧬 Systems Philosophy
 
-XAIPT explores a broader infrastructure question:
-
-> In AI-era digital systems, should every irreversible action execute instantly?
-
-Or should:
-
-- visibility,
-- review,
-- delay,
-- accountability,
-- authority,
-- and bounded runtime states
-
-become first-class infrastructure primitives?
-
-XAIPT investigates whether:
-
-> protection can emerge not only from detection —
+> Protection can emerge not only from detection —  
 > but also from runtime execution design itself.
+
+XAIPT explores whether visibility, review, delay, accountability, authority, and bounded runtime states should become first-class primitives in AI-era digital systems.
 
 ---
 
 ## 🌌 Related Research Ecosystem
 
-### QBAIX™
-
-Hybrid Compute Infrastructure Research
-
----
-
-### XPADI™
-
-Survivability-Governed Data Systems
-
----
-
-### Mandale-OS™
-
-Runtime Memory & Execution Intelligence Research
+| Ecosystem | Direction |
+|---|---|
+| QBAIX™ | Hybrid Compute Infrastructure Research |
+| XPADI™ | Survivability-Governed Data Systems |
+| Mandale-OS™ | Runtime Memory & Execution Intelligence Research |
 
 ---
 
 ## 👨‍💻 Founder
 
-# Raaj Mandale
+### Raaj Mandale
 
 Systems Architect • Runtime Systems Research • Survivability Infrastructure
-
-Founder ecosystem:
-
-- QBAIX™
-- XPADI™
-- XAIPT™
-- Mandale-OS™
-
----
-
-## 🌐 Research Links
 
 | Surface | Link |
 |---|---|
@@ -382,36 +172,17 @@ Founder ecosystem:
 
 ---
 
-## 📜 License
-
-Research / Demonstration Surface
-
-All runtime simulations, diagrams, governance flows, visual runtime systems, telemetry concepts, and public demonstrations are intended for:
-
-- research visibility,
-- conceptual exploration,
-- systems-thinking research,
-- and runtime-governance experimentation.
-
----
-
 ## ❄️ Current Status
 
-XAIPT ecosystem structure, runtime doctrine, README architecture, SVG runtime assets, public positioning, and governance direction are currently considered:
+XAIPT ecosystem structure, runtime doctrine, public positioning, and governance direction are currently considered:
 
-## STABLE / FROZEN
+### STABLE / FROZEN
 
-Pending future expansion into:
-
-- deeper runtime simulations,
-- authority-system experiments,
-- operational telemetry surfaces,
-- and future governance research labs.
+Pending future expansion into deeper runtime simulations, authority-system experiments, telemetry surfaces, and governance research labs.
 
 ---
 
 # XAIPT™
 
-### HOLD Before Finality • Visibility Before Consequence
-
+### HOLD Before Finality • Visibility Before Consequence  
 #### Human Authority Before Irreversible Execution
